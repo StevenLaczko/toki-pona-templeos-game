@@ -1,6 +1,8 @@
-pana pu
+# pana pu
 o lukin sitelen e ni
 
+# Linux Only
+## Installation
 Installing qemu first is recommended. My installer just uses apt which is only for debian-based distros.
 Configure your setup in config.sh.
 Then...
