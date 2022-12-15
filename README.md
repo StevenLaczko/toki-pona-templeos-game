@@ -2,7 +2,7 @@
 o lukin sitelen e ni
 Read this first! 
 
-This game was made in TempleOS, a one-man-made OS. It's very quirky, the creator, Terry Davis, suffering from mental illness during its creation. It's nonetheless a remarkable project, and fun to program in its C-like language, HolyC. This game was made to run in Qemu, an OS emulator.
+This game was made in TempleOS, a one-man-made OS. It's very quirky. The creator, Terry Davis, suffered from mental illness during its creation and up until his death in 2018. It's a remarkable project, and it is very fun to program in its unique JIT-compiled C-like language. This game was made to run in Qemu, an OS emulator.
 
 
 ## Installation
