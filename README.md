@@ -4,6 +4,8 @@ Read this first!
 
 This game was made in TempleOS, a one-man-made OS. It's very quirky. The creator, Terry Davis, suffered from mental illness during its creation and up until his death in 2018. It's a remarkable project, and it is very fun to program in its unique JIT-compiled C-like language. This game was made to run in Qemu, an OS emulator.
 
+The symbols and language used in the game are **toki pona**, a minimalistic philosophical constructed language made by Sonja Lang with only ~130 words.
+
 
 ## Installation
 Installing qemu first is recommended. My installer just uses apt which is only for debian-based distros.
